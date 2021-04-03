@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# Build
+/build/
+
+# Extension cache
+/.vscode/cquery_cached_index/
